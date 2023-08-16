@@ -7,3 +7,7 @@ We both are agreed to work on...
 - rumor —— 9 %
 - parrot —— 0.5 %
 
+`Both`
+- Sequømics
+- Infinity 
+
