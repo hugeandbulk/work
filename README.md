@@ -2,12 +2,12 @@
 We both are agreed to work on... 
 
 `Each`
-- ePay —— 86.9 %
-- hire —— 24.8 %
-- rumor —— 9 %
-- parrot —— 0.5 %
+- ePay —— 4 %
+- hire —— 9 %
+- rumor —— 13 %
+- parrot —— 17 %
 
 `Both`
-- Sequømics
+- Sequømics 
 - Infinity 
 
