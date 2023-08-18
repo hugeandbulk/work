@@ -6,6 +6,8 @@ We both are agreed to work on...
 - hire —— 9 %
 - rumor —— 13 %
 - parrot —— 17 %
+- - - - - - - - - 
+- garlic
 
 `Both`
 - Sequømics 
