@@ -7,7 +7,8 @@ We both are agreed to work on...
 - rumor —— 13 %
 - parrot —— 17 %
 - - - - - - - - - 
-- garlic
+- do, for EIS
+- garlic, for EIS
 
 `Both`
 - Sequømics 
