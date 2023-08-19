@@ -11,8 +11,8 @@ We both are agreed to work on...
 - bo, for EIS
 
 `Both`
-- Sequømics 
-- Infinity 
+- Sequømics, a software development company. 
+- Infinity, a research company. 
 
 heysingle
 https://github.com/heysingle
