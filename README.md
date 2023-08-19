@@ -15,7 +15,7 @@ We both are agreed to work on...
 - Sequømics, a software development company. 
 - Infinity, a research company.
 
-- **Theorem**
+- **Theorem**, 19th August.
 
 heysingle
 https://github.com/heysingle
