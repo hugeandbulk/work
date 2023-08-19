@@ -8,7 +8,7 @@ We both are agreed to work on...
 - parrot —— 17 %
 - - - - - - - - - 
 - do, for EIS
-- garlic, for EIS
+- dobo, for EIS
 
 `Both`
 - Sequømics 
