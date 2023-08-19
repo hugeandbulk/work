@@ -16,6 +16,7 @@ We both are agreed to work on...
 - Infinity, a research company.
 
 - **Theorem**, 19th August.
+ - bot named - Adverb, 20th August.
 
 A breakthrough //. 
 
