@@ -13,7 +13,9 @@ We both are agreed to work on...
 
 `Both`
 - Sequømics, a software development company. 
-- Infinity, a research company. 
+- Infinity, a research company.
+
+- **Theorem**
 
 heysingle
 https://github.com/heysingle
