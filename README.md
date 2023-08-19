@@ -6,6 +6,7 @@ We both are agreed to work on...
 - hire —— 9 %
 - rumor —— 13 %
 - parrot —— 17 %
+- above four are, **Infinity**'s product.
 - - - - - - - - - 
 - do, for EIS
 - bo, for EIS
