@@ -15,7 +15,7 @@ We both are agreed to work on...
 - Sequømics, a software development company. 
 - Infinity, a research company.
 
-- **Theorem**, 19th August.
+**Theorem**, 19th August.
  - bot named - Adverb, 20th August.
 
 A breakthrough //. 
