@@ -2,11 +2,11 @@
 We both are agreed to work on... 
 
 `Each`
-- ePay —— 4 %
-- hire —— 9 %
-- rumor —— 13 %
-- parrot —— 17 %
-- theorem —— 1 %
+- ePay —— a bot (4 %) 
+- hire —— a bot (9 %) 
+- rumor —— a bot (13 %) 
+- parrot —— a bot (17 %) 
+- theorem —— a bot (1 %) 
 - above five are, **Infinity**'s product.
 - - - - - - - - - 
 - do, for EIS
