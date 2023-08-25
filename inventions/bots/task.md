@@ -3,3 +3,7 @@ If you lost the internet connection, it's going to write in `buffer` and saves e
 Concept : 
 
 "I have lost the connection.", through SMS.
+
+***Massage**
+ö) massage...
+
