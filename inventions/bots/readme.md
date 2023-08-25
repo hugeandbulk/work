@@ -18,4 +18,6 @@ _Bots usually operate over a network; more than half of Internet traffic is bots
 - epsilon, ε
 - omega, ω
 
+All bots have designation, called `hexadecimal`.
+
 Above all are invented by Prabhat Kumar.
