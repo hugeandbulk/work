@@ -3,10 +3,10 @@ We both are agreed to work on...
 
 `Each`
 - ePay —— a bot (Epsilon, ε) 
-- hire —— a bot (9 %) 
-- rumor —— a bot (13 %) 
-- parrot —— a bot (17 %) 
-- theorem —— a bot (1 %) 
+- hire —— a bot (Omega, ω) 
+- rumor —— a bot (hexbot) 
+- parrot —— a bot (una) 
+- theorem —— a bot (adverb) 
 - above five are, **Infinity**'s product.
 - - - - - - - - - 
 - do, for EIS
