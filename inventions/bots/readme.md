@@ -17,6 +17,7 @@ _Bots usually operate over a network; more than half of Internet traffic is bots
 - myra
 - epsilon, ε
 - omega, ω
+- yokel, y
 
 All bots have designation, called `hexadecimal`.
 
