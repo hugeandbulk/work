@@ -5,9 +5,10 @@ Concept :
 "I have lost the connection.", through SMS.
 
 ***Massage**
-ö) massage...
 
-ó) massage...
+ö) massage... for re registering 
+
+ó) massage... for out
 
 Ö = O-Umlaut
 
