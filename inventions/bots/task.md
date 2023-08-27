@@ -4,11 +4,11 @@ Concept :
 
 "I have lost the connection.", through SMS.
 
-***Massage**
+***message**
 
-ö) massage... for re registering 
+ö) message... for re registering 
 
-ó) massage... for out
+ó) message... for out
 
 Ö = O-Umlaut
 
